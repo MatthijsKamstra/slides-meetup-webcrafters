@@ -8,9 +8,7 @@ And thank you for having me.
 
 ::slide::
 
-# Haxe for js
-
-nodejs, c++, php, flash, java, IOS, Android, html5 & more<!-- .element: class="fragment" data-fragment-index="1" -->
+# Creating with Haxe
 
 ::slide::
 
@@ -620,7 +618,7 @@ google translate<!-- .element: class="fragment fade-in b" data-fragment-index="1
 
 Russian & Korean
 
-"Will you be my rubber duck?"<!-- .element: class="fragment fade-in b" data-fragment-index="1" -->
+"Will you be my rubber duck?"
 
 The name is a reference to a story in the book The Pragmatic Programmer in which a programmer would carry around a rubber duck and debug their code by forcing themselves to explain it, line-by-line, to the duck.
 
@@ -721,6 +719,15 @@ online REPL try.haxe.org
 
 #Q&A
 
+
+::slide::
+
+## Matthijs Kamstra
+**aka [mck]**  
+
+[@matthijskamstra](https://twitter.com/matthijskamstra) #haxe
+
+[slides meetup Webcrafters](http://matthijskamstra.github.io/slides-meetup-webcrafters/)
 
 
 
